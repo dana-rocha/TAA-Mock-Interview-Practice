@@ -1,5 +1,5 @@
 import pytest
-from binary_search_trees.bfs import Tree, TreeNode
+from bfs_bst.bfs import Tree, TreeNode
 
 
 class TreeExtended(Tree):
