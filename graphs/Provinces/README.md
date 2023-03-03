@@ -1,5 +1,8 @@
 Replit link: https://replit.com/@dana-rocha/graphs-practice-1
 
+Lesson: Graphs Part 1
+Date: 10/13/22
+
 # Number of Provinces
 
 You are given an undirected graph with `N` nodes. Each node represents a city. Two cities `a` and `b` belong to a single _province_ if there is a possible path from `a` to `b` or vice versa.

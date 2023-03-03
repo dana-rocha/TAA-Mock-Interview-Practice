@@ -1,4 +1,7 @@
 '''
+Lesson: Binary Search Trees
+Date: 9/22/22
+
 https://replit.com/@adadev/bst-dfs-practice#binary_search_trees/bfs.py
 '''
 
